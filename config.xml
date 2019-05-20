@@ -5,10 +5,10 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app8"
 version="1.0.0">
 
-<name> app6 Dezlizar hacia la izquierda y a la derecha </name>
+<name> app8 Geolocalizacion con google maps  </name>
 
 <description>
-Aplicacion que realiza el swipe o deslizamiento en el dispositivo
+Muestra la ubicacion del disposititvo de acuerdo al GPS y en el mapa de google maps
 </description>
 
 <author href="https://build.phonegap.com" email="marinettedupaincheng096@gmail.com">
